@@ -254,4 +254,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
    }
    }); 
    
-	client.login(NDk2MDA5MDk3MjgwMjI1Mjgx.W7EGeA.8QNIzxirLAiLgk2MLSX1bsTbvSE); 
+	client.login(process.env.BOT_TOKEN); 
